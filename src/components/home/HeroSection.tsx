@@ -23,7 +23,7 @@ const HeroSection = () => {
               without needing to write a single line of code.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <Link to="/signup">
+              <Link to="/auth">
                 <Button size="lg" className="bg-foreground text-background hover:bg-foreground/90 text-base px-8 h-14">
                   Get started free
                 </Button>
